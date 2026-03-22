@@ -24,8 +24,8 @@
 
   --text-primary: #ffffff;
   --text-secondary: #cce4f7;
-  --text-muted: #a8d4ef;
-  --text-dim: #8bbdd9;
+  --text-muted: #c8e8f8;
+  --text-dim: #b0d5ee;
 
   --border: rgba(0, 188, 212, 0.15);
   --border-bright: rgba(0, 229, 255, 0.3);
@@ -834,3 +834,24 @@ body {
   .waitlist-input-wrap { flex-direction: column; }
   .waitlist-input-wrap .btn { border-radius: 0 0 10px 10px; }
 }
+
+/* ---- Heading brightness fix ---- */
+h1, h2, h3, h4, h5, h6 { color: #ffffff; }
+.section-title { color: #ffffff; }
+.step h3 { color: #ffffff; }
+.feature-card h3 { color: #ffffff; }
+.arch-node-name { color: #ffffff; }
+.price-amount { color: #ffffff; }
+.footer-brand { color: #ffffff; }
+.logo-text { color: #ffffff; }
+.stat-label { color: #d0eaf8; }
+.arch-layer-label { color: #c8e8f8; }
+.arch-flow-label { color: #c8e8f8; }
+.phone-title { color: #c8e8f8; }
+.footer-tagline { color: #c8e8f8; }
+.footer-links a { color: #c8e8f8; }
+.footer-copy { color: #b0d5ee; }
+.step p { color: #cce4f7; }
+.feature-card p { color: #cce4f7; }
+.pricing-features li { color: #cce4f7; }
+.pricing-desc { color: #cce4f7; }
