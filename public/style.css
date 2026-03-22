@@ -22,10 +22,10 @@
   --yellow: #ffd600;
   --red: #ff5252;
 
-  --text-primary: #f0f8ff;
-  --text-secondary: #a8cce8;
-  --text-muted: #7aafc8;
-  --text-dim: #5a8aaa;
+  --text-primary: #ffffff;
+  --text-secondary: #cce4f7;
+  --text-muted: #a8d4ef;
+  --text-dim: #8bbdd9;
 
   --border: rgba(0, 188, 212, 0.15);
   --border-bright: rgba(0, 229, 255, 0.3);
